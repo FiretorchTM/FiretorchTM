@@ -26,6 +26,6 @@
 <br>
 <h1 align="left">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&pause=1000&lines=Acompanhe+o+meu+trabalho!;" />
-![Snake animation](https://github.com/GabrielaZanetti/GabrielaZanetti/blob/output/github-contribution-grid-snake.svg)
 </h1>
+![Snake animation](https://github.com/FiretorchTM/FiretorchTM/blob/output/github-contribution-grid-snake2.svg)
 </div>
