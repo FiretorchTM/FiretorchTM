@@ -1,7 +1,7 @@
 ## Bem-vindo ao meu perfil. 
 
 # 💫About Me :
-Graduated in computer systems management and programming by: Escola Secundária da Moita.
+Graduated in computer systems management and programming by: Escola Secundária da Moita.<br>
 Actualy studying Software Engineering at Católica University.
 I love Code.
 C# is my favorite language.
